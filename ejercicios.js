@@ -1,5 +1,5 @@
 // FUNDAMENTOS DE PROGRAMACIÃ“N - PRÃCTICA
-// Nombre del estudiante: Jorge Emilio Batun Alcocer 
+// Nombre del estudiante: Jorge Emilio Batun Alcocer
 // Fecha: 5 noviembre del 2025
 
 // ============================================
